@@ -1,0 +1,38 @@
+---
+title: "Dr. Carlos Manuel Herrera Castillo"
+subtitle: "Evolutionary Genomics & Developmental Biology"
+about:
+  template: trestles
+  image: profile.jpg
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: envelope-fill
+      text: Email
+      href: mailto:carlos.herreracastillo@unibas.ch
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/carlos-manuel-herrera-castillo
+    - text: "{{< ai orcid >}} ORCiD"
+      href: https://orcid.org/0000-0002-4811-5902
+
+---
+
+## About
+
+I am an evolutionary biologist specialising in the genomic and transcriptomic basis of morphological adaptation. My doctoral work at Universität Basel focused on identifying the regulatory mechanisms driving phenotypic divergence in threespine stickleback fish (*Gasterosteus aculeatus*), combining large-scale genomic datasets, multi-omics approaches, and experimental genetics.
+
+More broadly, my research sits at the intersection of evolutionary biology, developmental genetics, and comparative morphology — from vertebrate palaeontology to single-cell genomics.
+
+## Current Position
+
+I am currently a **Lecturer** in *Introduction to Scientific Work* at Universität Zürich (06.2025 – Present), while continuing collaborative research on stickleback evolution and development.
+
+## Education
+
+| Degree | Institution | Period |
+|---|---|---|
+| PhD in Zoology *(genomics & transcriptomics)* | Universität Basel | 2021 – 2025 |
+| MSc in Biology | Universität Zürich | 2019 – 2021 |
+| BSc in Biology | Universidad Autónoma de Madrid | 2015 – 2019 |
+

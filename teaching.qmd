@@ -1,0 +1,61 @@
+---
+title: "Teaching & Outreach"
+---
+
+## Teaching Experience
+
+| Role | Institution | Period |
+|---|---|---|
+| **Lecturer** – *Introduction to Scientific Work* | Universität Zürich, Switzerland | 06.2025 – Present |
+| **Co-supervisor** – Master's Thesis Project | Universität Basel, Switzerland | 02.2024 – 02.2025 |
+| **Lecturer** – *Introduction to Biology* | Universität Basel, Switzerland | 09.2024 – 12.2024 |
+| **Instructor** – *Introduction to Laboratory Protocols* | Universität Basel, Switzerland | 10.2023 – 04.2024 |
+| **Guest Lecturer** – *Vertebrate Palaeozoology* | Universität Zürich, Switzerland | 09.2020 – 12.2020 |
+
+---
+
+## Conference Presentations
+
+::: {.conf-entry}
+**Biology24** · University of Zürich, Switzerland · *2024*  
+Oral presentation — *Investigating the causes of adaptation in three-spined sticklebacks.*
+:::
+
+::: {.conf-entry}
+**3rd AsiaEvo Conference** · National University of Singapore, Singapore · *2023*  
+Oral presentation — *Investigating the causes of adaptation in three-spined sticklebacks (a spiny subject).*
+:::
+
+::: {.conf-entry}
+**10th International Conference on Stickleback Behaviour and Evolution** · University of Hólar, Iceland · *2022*  
+Oral presentation — *Developmental genetic basis of skeletal evolution in stickleback fish.*
+:::
+
+::: {.conf-entry}
+**Biology19** · University of Zürich, Switzerland · *2019*  
+Poster presentation — *Skeletal variation in bird domestication.*
+:::
+
+---
+
+## Awards & Funding
+
+| Award | Year |
+|---|---|
+| Freiwillige Akademische Gesellschaft fellowship | 2025 |
+| University of Basel travel fund for early career researchers | 2023, 2024 |
+| Scholarship from Swiss-European Mobility Programme (SEMP) | 2019 |
+
+---
+
+## Certifications & Licences
+
+**LTK Module 20** — Approved to perform animal experimentation on aquatic animals under Swiss law (Switzerland).
+
+---
+
+## Professional Memberships
+
+- Member of the **Society for the Study of Amphibians and Reptiles (SSAR)**
+- Member of the **Swiss Reproducibility Network**
+- Reviewer for *Molecular Ecology*

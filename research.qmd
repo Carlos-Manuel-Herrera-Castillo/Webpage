@@ -1,0 +1,77 @@
+---
+title: "Research"
+---
+
+My work combines evolutionary biology, comparative morphology, and functional genomics to understand how complex phenotypes arise and are modified over evolutionary time. I primarily use threespine stickleback fish as a model system, complemented by earlier projects in vertebrate palaeontology and bird domestication.
+
+---
+
+## PhD Research
+
+**Department of Environmental Sciences, Universität Basel** · *June 2021 – September 2025*  
+*Supervised by Dr. Daniel Berner*
+
+**Objective:** Determining the genomic and transcriptomic causes of target phenotypes.
+
+My doctoral research aimed to identify the regulatory and coding mechanisms underlying morphological adaptation in stickleback fish. Key activities included:
+
+- Processed large-scale genomic datasets using high-performance computing (HPC) clusters
+- Designed and executed complementation crosses to test candidate loci
+- Identified developmental divergence stages via skeletal double-staining
+- Performed tissue sampling for bulk RNA-seq, single-cell RNA-seq, and single-cell ATAC-seq
+- Integrated multi-omics data to identify candidate regulatory elements and genes underlying morphological trait loss
+
+**Focal systems:**
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+### Dorsal Spine Evolution
+Investigating the regulatory basis of dorsal spine number reduction in freshwater stickleback populations, with a focus on *hoxdb* gene regulation.
+:::
+::: {.g-col-12 .g-col-md-6}
+### Pelvic Armor Reduction
+Studying the developmental genetic mechanisms behind pelvic armor loss in stickleback populations adapted to acidic environments.
+:::
+:::
+
+---
+
+## MSc Research
+
+**Paläontologisches Institut, Universität Zürich** · *September 2019 – June 2021*  
+*Supervised by Prof. Dr. Marcelo Sánchez-Villagra*
+
+### Project 1 · Domestication and Development in Birds
+
+Investigated how domestication affects morphological development in domestic birds, with a focus on skeletal variation in chickens compared to wild relatives (mallard and Muscovy ducks). This project combined 2D/3D X-ray imaging, whole-mount skeletal staining, landmark selection, and Procrustes analyses for morphometrics.
+
+### Project 2 · Fossil Description of *Laquintasaura venezuelae*
+
+Described newly recovered fossil material from an early ornithischian dinosaur, *Laquintasaura venezuelae* (Early Jurassic, Venezuela), including the first non-invasive imaging of a previously undescribed cranial element.
+
+---
+
+## Technical Skills
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+**Molecular & Wet Lab**
+
+- Sample fixation, DNA and RNA extraction
+- PCR, electrophoresis QC, library preparation
+- Ion chromatography, enzymatic kinetics
+- Northern, Southern, and Western blotting
+- Whole-mount skeletal staining
+:::
+::: {.g-col-12 .g-col-md-6}
+**Computational & Imaging**
+
+- R (genomic & transcriptomic pipelines)
+- STAR align (RNA-seq), NovoAlign, bwa-mem2 (genomic aligners)
+- AlphaFold (protein structure prediction)
+- Mimics (3D scan processing)
+- High-Performance Computing (HPC)
+- scRNA-seq + scATAC-seq analysis
+- 2D/3D X-ray imaging, Procrustes morphometrics
+:::
+:::
