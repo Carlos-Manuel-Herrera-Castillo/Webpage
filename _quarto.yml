@@ -1,9 +1,12 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - ".nojekyll"
 
 website:
   title: "Dr. Carlos Herrera Castillo"
+  site-url: https://carlos-manuel-herrera-castillo.github.io/Webpage/
   favicon: favicon.ico
   navbar:
     left:
