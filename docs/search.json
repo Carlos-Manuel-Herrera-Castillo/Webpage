@@ -35,18 +35,18 @@
     "text": "My work combines evolutionary biology, comparative morphology, and functional genomics to understand how complex phenotypes arise and are modified over evolutionary time. I primarily use threespine stickleback fish as a model system, complemented by earlier projects in vertebrate palaeontology and bird domestication."
   },
   {
-    "objectID": "research.html#phd-research",
-    "href": "research.html#phd-research",
+    "objectID": "research.html#current-research",
+    "href": "research.html#current-research",
     "title": "Research",
-    "section": "PhD Research",
-    "text": "PhD Research\nDepartment of Environmental Sciences, Universität Basel · June 2021 – September 2025\nSupervised by Dr. Daniel Berner\nObjective: Determining the genomic and transcriptomic causes of target phenotypes.\nMy doctoral research aimed to identify the regulatory and coding mechanisms underlying morphological adaptation in stickleback fish. Key activities included:\n\nProcessed large-scale genomic datasets using high-performance computing (HPC) clusters\nDesigned and executed complementation crosses to test candidate loci\nIdentified developmental divergence stages via skeletal double-staining\nPerformed tissue sampling for bulk RNA-seq, single-cell RNA-seq, and single-cell ATAC-seq\nIntegrated multi-omics data to identify candidate regulatory elements and genes underlying morphological trait loss\n\nFocal systems:\n\n\nDorsal Spine Evolution\nInvestigating the regulatory basis of dorsal spine number reduction in freshwater stickleback populations, with a focus on hoxdb gene regulation.\n\n\nPelvic Armor Reduction\nStudying the developmental genetic mechanisms behind pelvic armor loss in stickleback populations adapted to acidic environments."
+    "section": "Current Research",
+    "text": "Current Research\n\n\n\n\nGenomic and developmental adaptation in three-spined sticklebacks\nPhD research · Department of Environmental Sciences, Universität Basel · June 2021 – September 2025\nSupervised by Dr. Daniel Berner\nIdentifying the regulatory and coding mechanisms underlying morphological adaptation in stickleback fish, combining large-scale genomics, multi-omics approaches, and experimental genetics.\n\nProcessed large-scale genomic datasets on HPC clusters\nDesigned and executed complementation crosses to test candidate loci\nIdentified developmental divergence stages via skeletal double-staining\nPerformed tissue sampling for bulk RNA-seq, single-cell RNA-seq, and single-cell ATAC-seq\nIntegrated multi-omics data to identify candidate regulatory elements underlying morphological trait loss"
   },
   {
-    "objectID": "research.html#msc-research",
-    "href": "research.html#msc-research",
+    "objectID": "research.html#past-research",
+    "href": "research.html#past-research",
     "title": "Research",
-    "section": "MSc Research",
-    "text": "MSc Research\nPaläontologisches Institut, Universität Zürich · September 2019 – June 2021\nSupervised by Prof. Dr. Marcelo Sánchez-Villagra\n\nProject 1 · Domestication and Development in Birds\nInvestigated how domestication affects morphological development in domestic birds, with a focus on skeletal variation in chickens compared to wild relatives (mallard and Muscovy ducks). This project combined 2D/3D X-ray imaging, whole-mount skeletal staining, landmark selection, and Procrustes analyses for morphometrics.\n\n\nProject 2 · Fossil Description of Laquintasaura venezuelae\nDescribed newly recovered fossil material from an early ornithischian dinosaur, Laquintasaura venezuelae (Early Jurassic, Venezuela), including the first non-invasive imaging of a previously undescribed cranial element."
+    "section": "Past Research",
+    "text": "Past Research\n\n\n\n\nDomestication and Development in Birds\nMSc Project 1 · Paläontologisches Institut, Universität Zürich · 2019 – 2021\nSupervised by Prof. Dr. Marcelo Sánchez-Villagra\nInvestigated how domestication affects morphological development in domestic birds, with a focus on skeletal variation in chickens compared to mallard and Muscovy ducks. Combined 2D/3D X-ray imaging, whole-mount skeletal staining, landmark selection, and Procrustes morphometrics.\n\n\n\n\n\nFossil Description of Laquintasaura venezuelae\nMSc Project 2 · Paläontologisches Institut, Universität Zürich · 2019 – 2021\nSupervised by Prof. Dr. Marcelo Sánchez-Villagra\nDescribed newly recovered fossil material from the early ornithischian dinosaur Laquintasaura venezuelae (Early Jurassic, Venezuela), including the first non-invasive imaging of a previously undescribed cranial element."
   },
   {
     "objectID": "research.html#technical-skills",

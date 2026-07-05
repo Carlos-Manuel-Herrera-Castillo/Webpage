@@ -54,6 +54,33 @@ hr {
   }
 }
 
+/* ── Research card grid (2 columns) ────────────────────────────── */
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Single card (PhD) spans both columns */
+.research-grid .research-card-full {
+  grid-column: 1 / -1;
+}
+
+/* Taller image for the full-width PhD card */
+.research-card-full img {
+  height: 280px !important;
+}
+
+@media (max-width: 700px) {
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+  .research-grid .research-card-full {
+    grid-column: 1;
+  }
+}
+
 /* ── Individual card ────────────────────────────────────────────── */
 .pub-card {
   display: flex;
