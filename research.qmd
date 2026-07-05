@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-My work combines evolutionary biology, comparative morphology, and functional genomics to understand how complex phenotypes arise and are modified over evolutionary time. I primarily use threespine stickleback fish as a model system, complemented by earlier projects in vertebrate palaeontology and bird domestication.
+My work combines evolutionary biology, comparative morphology, and functional genomics to understand how complex phenotypes arise and are modified over evolutionary time. I primarily currently use threespine stickleback fish as a model system, complemented by earlier projects in vertebrate palaeontology and bird domestication.
 
 ## Current Research
 
