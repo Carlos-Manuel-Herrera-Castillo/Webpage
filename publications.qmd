@@ -7,6 +7,24 @@ title: "Publications"
 ::: {.pub-grid-3}
 
 ::: {.pub-card}
+![](images/10.64898:2026.07.09.737450.jpg)
+
+::: {.pub-entry}
+
+**Assessing planktivorous fish as vectors of a plankton parasite.**
+
+Lampadaridis, Nikolaos-Dimitrios , **Herrera-Castillo, Carlos Manuel**\*, Ebert, Dieter*
+
+\* Shared senior authorship *<br>
+*bioRxiv* · 2026
+
+[{{< fa arrow-up-right-from-square >}} doi.org/10.64898/2026.07.09.737450](https://doi.org/10.64898/2026.07.09.737450){.doi-link}
+
+:::
+
+:::
+
+::: {.pub-card}
 
 ![](images/10.1101:2025.08.04.667941.jpg)
 
