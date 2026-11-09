@@ -6,13 +6,26 @@ title: "Teaching & Outreach"
 
 | Role | Institution | Period |
 |---|---|---|
-| **Lecturer** – *Introduction to Scientific Work* | Universität Zürich, Switzerland | 06.2025 – Present |
+| **Lecturer** – *Introduction to Scientific Work* | Universität Zürich, Switzerland | 06.2025 – 10.2026 |
 | **Co-supervisor** – Master's Thesis Project | Universität Basel, Switzerland | 02.2024 – 02.2025 |
 | **Lecturer** – *Introduction to Biology* | Universität Basel, Switzerland | 09.2024 – 12.2024 |
 | **Instructor** – *Introduction to Laboratory Protocols* | Universität Basel, Switzerland | 10.2023 – 04.2024 |
 | **Guest Lecturer** – *Vertebrate Palaeozoology* | Universität Zürich, Switzerland | 09.2020 – 12.2020 |
 
+<details>
+<summary>📂 Download Slides for Introduction to Scientific Work (6 Presentations)</summary>
+
+1. [From Real-World Problems to Research Questions, Hypothesis, and Objectives](slides/1_From_Real_World_Problems_to_Research_Questions_Hypothesis_and_Objectives.pdf)
+2. [Types and Sources of Data](slides/2_Types_and_Sources_of_Data.pdf)
+3. [Data Collection Methods](slides/3_Data_Collection_Methods.pdf)
+4. [Foundations of Data Analysis](slides/4_Foundations_of_Data_Analysis.pdf)
+5. [Bias and Study Limitations](slides/5_Bias_and_Study_Limitations.pdf)
+6. [Basics of Study Management](slides/6_Basics_of_Study_Management.pdf)
+
+</details>
+
 ---
+
 
 ## Conference Presentations
 
